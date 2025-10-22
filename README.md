@@ -21,8 +21,10 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baanu&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baanu&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baanu&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baanu&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Baanu&theme=tokyonight)
+![Baanu's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Baanu&theme=tokyo-night)
 
 ---
 
