@@ -1,6 +1,6 @@
 # It's ME - Baanu
 
-- YES, I'm a person who solves problem I didn't know I had, in a way I don't understand.
-- To save time let's just assume that I am never give up.
-- 
-
+## - I'm a Developer, building Web & Mobile Applications that solve real problems.
+## - I'm a Contributor, Improving code quality & collaborating effectively with teams.
+## - I'm a Learner, Exploring new technologies to continuosly enhancing skills and deliver better software.
+## - I'm a Collaborator, Open to working on projects & contributing to meaningful outcomes.
