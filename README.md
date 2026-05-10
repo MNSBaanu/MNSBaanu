@@ -1,12 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Baanu&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi,%20I'm%20Baanu&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=I+am+a+Developer+%E2%80%94+Building+web+%26+mobile+apps;I+am+a+Contributor+%E2%80%94+Improving+code+quality;I+am+a+Learner+%E2%80%94+Exploring+new+technologies;I+am+a+Collaborator+%E2%80%94+Open+to+meaningful+projects)](https://git.io/typing-svg)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
 
 </div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=10&pause=4000&color=58A6FF&vCenter=true&height=14&width=120&lines=I+am+a+Developer)](https://git.io/typing-svg) - Building web & mobile applications that solve real problems
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=10&pause=4000&color=58A6FF&vCenter=true&height=14&width=130&lines=I+am+a+Contributor)](https://git.io/typing-svg) - Improving code quality & collaborating effectively with teams
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=10&pause=4000&color=58A6FF&vCenter=true&height=14&width=105&lines=I+am+a+Learner)](https://git.io/typing-svg) - Exploring new technologies to continuously enhance skills
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=10&pause=4000&color=58A6FF&vCenter=true&height=14&width=140&lines=I+am+a+Collaborator)](https://git.io/typing-svg) - Open to working on projects & contributing to meaningful outcomes
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
