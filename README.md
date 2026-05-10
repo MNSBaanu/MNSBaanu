@@ -4,12 +4,9 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=13&pause=4000&color=58A6FF&vCenter=true&height=18&width=155&lines=I+am+a+Developer)](https://git.io/typing-svg) — Building web & mobile applications that solve real problems
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=13&pause=4000&color=58A6FF&vCenter=true&height=18&width=170&lines=I+am+a+Contributor)](https://git.io/typing-svg) — Improving code quality & collaborating effectively with teams
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=13&pause=4000&color=58A6FF&vCenter=true&height=18&width=140&lines=I+am+a+Learner)](https://git.io/typing-svg) — Exploring new technologies to continuously enhance skills
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=13&pause=4000&color=58A6FF&vCenter=true&height=18&width=180&lines=I+am+a+Collaborator)](https://git.io/typing-svg) — Open to working on projects & contributing to meaningful outcomes
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=10&pause=4000&color=58A6FF&vCenter=true&height=14&width=120&lines=I+am+a+Developer)](https://git.io/typing-svg) - Building web & mobile applications that solve real problems
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=10&pause=4000&color=58A6FF&vCenter=true&height=14&width=130&lines=I+am+a+Contributor)](https://git.io/typing-svg) - Improving code quality & collaborating effectively with teams
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=10&pause=4000&color=58A6FF&vCenter=true&height=14&width=105&lines=I+am+a+Learner)](https://git.io/typing-svg) - Exploring new technologies to continuously enhance skills
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=10&pause=4000&color=58A6FF&vCenter=true&height=14&width=140&lines=I+am+a+Collaborator)](https://git.io/typing-svg) - Open to working on projects & contributing to meaningful outcomes
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
